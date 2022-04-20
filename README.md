@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **trfahiminfo@gmail.com**
 
