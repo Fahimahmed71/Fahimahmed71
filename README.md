@@ -5,6 +5,9 @@
 
 - 💬 Ask me about **JavaScript**
 
+- 📫 How to reach me **trfahiminfo@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
