@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **Anime 🐱‍** & **WEB 🕸**
+- 💬 Ask me about **Anime 🐱‍**, **Manga📚** & **WEB 🕸**
 
 - 📫 How to reach me **trfahiminfo@gmail.com**
 
