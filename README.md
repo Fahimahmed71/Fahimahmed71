@@ -100,9 +100,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 <center>
 <p align="center">
 	<img  src="https://media.tenor.com/ov9490nVYX0AAAAd/levi.gif" alt="..." />
