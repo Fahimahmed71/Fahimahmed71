@@ -90,6 +90,6 @@
 
 <center>
 <p align="center">
-	<img  src="https://media.tenor.com/ov9490nVYX0AAAAd/levi.gif" alt="..." />
+	<img  src="https://media.tenor.com/zDU07V3epuMAAAAC/goku-dbs-broly.gif" alt="..." />
  </p>
 </center>
