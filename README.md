@@ -6,7 +6,7 @@
 ## <div align="center">I'm Fahim Ahmed, A passionate MERN Developer from Bangladesh</div>  
   
 
-- 🌱 I’m currently learning MongoDB  
+- 🌱 I’m currently learning NextJs  
   
 
 - ❓ Ask me about anything related to Anime 🐱‍, Manga📚 & WEB 🕸  
