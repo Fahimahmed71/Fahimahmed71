@@ -4,13 +4,10 @@
 
 <p align="center">My name is Fahim and I'm a MERN Stack Developer from Bangladesh</p>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">❓ Ask me about anything related to Anime 🐱‍, Manga📚 & WEB 🕸<br><br>How to reach me trfahiminfo@gmail.com📭</p>
+<p align="center">How to reach me  <a href="trfahiminfo@gmail.com" target="_blank">Email</a>📭</p>
 
 ###
 
